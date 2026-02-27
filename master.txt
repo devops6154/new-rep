@@ -1,1 +1,2 @@
 my masterfile for master branch
+my master file for private branch
